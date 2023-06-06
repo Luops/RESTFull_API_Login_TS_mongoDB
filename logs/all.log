@@ -1,0 +1,48 @@
+2023-06-05 202020:34:23 - [32minfo[39m - [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:2020:34:57 - [32minfo[39m - [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:35:01 - [32minfo[39m - [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:35:27 - [32minfo[39m - [32mConectou ao DB![39m
+2023-06-05 20:35:27 - [32minfo[39m - [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:35:41 - [32minfo[39m - [32mConectou ao DB![39m
+2023-06-05 20:35:41 - [32minfo[39m - [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:35:45 - [32minfo[39m - [32mConectou ao DB![39m
+2023-06-05 20:35:45 - [32minfo[39m - [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:36:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:36:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:36:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:36:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:36:24 - [31merror[39m: [31mNão foi possível se conectar com o DB![39m
+2023-06-05 20:36:24 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2023-06-05 20:36:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:36:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:36:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:37:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:37:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:46:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:46:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:46:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:46:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:46:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:46:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:46:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:46:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:47:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:47:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:47:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:47:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:47:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:47:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:47:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:47:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:47:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:47:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:48:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:48:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:48:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:48:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:48:31 - [35mhttp[39m: [35mGET /api/test 200 - - 2.458 ms[39m
+[35m[39m
+2023-06-05 20:48:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:48:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-05 20:49:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-05 20:49:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m

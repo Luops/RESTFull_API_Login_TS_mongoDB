@@ -1,0 +1,2 @@
+2023-06-05 20:36:24 - [31merror[39m: [31mNão foi possível se conectar com o DB![39m
+2023-06-05 20:36:24 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
