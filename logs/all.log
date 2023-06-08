@@ -448,3 +448,746 @@
 2023-06-06 20:17:15 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
 2023-06-06 20:17:22 - [32minfo[39m: [32mConectou ao DB![39m
 2023-06-06 20:17:22 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-06 20:17:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-06 20:17:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-06 20:20:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-06 20:20:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-06 20:20:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-06 20:20:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-06 20:20:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-06 20:20:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-06 20:20:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-06 20:20:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-06 20:20:56 - [35mhttp[39m: [35mPOST /api/login 200 - - 156.287 ms[39m
+[35m[39m
+2023-06-06 20:20:58 - [35mhttp[39m: [35mPOST /api/login 200 - - 146.174 ms[39m
+[35m[39m
+2023-06-08 10:19:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:19:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:19:58 - [35mhttp[39m: [35mPOST /api/login 200 - - 160.948 ms[39m
+[35m[39m
+2023-06-08 10:20:18 - [35mhttp[39m: [35mPOST /api/login 404 - - 147.600 ms[39m
+[35m[39m
+2023-06-08 10:20:25 - [35mhttp[39m: [35mPOST /api/login 200 - - 146.736 ms[39m
+[35m[39m
+2023-06-08 10:21:31 - [35mhttp[39m: [35mPOST /api/user 201 - - 243.221 ms[39m
+[35m[39m
+2023-06-08 10:22:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:22:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:22:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:22:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:22:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:22:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:23:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:23:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:23:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:23:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:23:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:23:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:23:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:23:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:23:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:23:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:23:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:23:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:24:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:24:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:24:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:24:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:24:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:24:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:24:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:24:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:24:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:24:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:25:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:25:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:26:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:26:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:26:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:26:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:26:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:26:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:27:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:27:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:27:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:27:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:27:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:27:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:27:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:27:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:28:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:28:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:29:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:29:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:29:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:29:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:29:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:29:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:29:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:29:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:29:37 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:29:37 - [35mhttp[39m: [35mPOST /api/login 500 - - 10.284 ms[39m
+[35m[39m
+2023-06-08 10:29:38 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:29:38 - [35mhttp[39m: [35mPOST /api/login 500 - - 3.130 ms[39m
+[35m[39m
+2023-06-08 10:29:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:29:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:30:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:30:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:30:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:30:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:30:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:30:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:30:15 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:30:15 - [35mhttp[39m: [35mPOST /api/login 500 - - 9.347 ms[39m
+[35m[39m
+2023-06-08 10:30:16 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:30:16 - [35mhttp[39m: [35mPOST /api/login 500 - - 2.106 ms[39m
+[35m[39m
+2023-06-08 10:30:16 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:30:16 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.411 ms[39m
+[35m[39m
+2023-06-08 10:30:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:30:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:31:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:31:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:31:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:26 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:26 - [35mhttp[39m: [35mPOST /api/login 500 - - 10.280 ms[39m
+[35m[39m
+2023-06-08 10:31:36 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:36 - [35mhttp[39m: [35mPOST /api/login 500 - - 13.297 ms[39m
+[35m[39m
+2023-06-08 10:31:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:31:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:38 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:38 - [35mhttp[39m: [35mPOST /api/login 500 - - 2.153 ms[39m
+[35m[39m
+2023-06-08 10:31:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:31:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:53 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:53 - [35mhttp[39m: [35mPOST /api/login 500 - - 12.769 ms[39m
+[35m[39m
+2023-06-08 10:31:54 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:54 - [35mhttp[39m: [35mPOST /api/login 500 - - 2.257 ms[39m
+[35m[39m
+2023-06-08 10:31:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:31:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:31:55 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:55 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.511 ms[39m
+[35m[39m
+2023-06-08 10:31:56 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:56 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.719 ms[39m
+[35m[39m
+2023-06-08 10:32:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:32:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:32:10 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:32:10 - [35mhttp[39m: [35mPOST /api/login 500 - - 13.760 ms[39m
+[35m[39m
+2023-06-08 10:32:11 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:32:11 - [35mhttp[39m: [35mPOST /api/login 500 - - 2.828 ms[39m
+[35m[39m
+2023-06-08 10:32:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:32:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:32:11 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:32:11 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.550 ms[39m
+[35m[39m
+2023-06-08 10:32:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:32:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:32:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:32:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:32:28 - [35mhttp[39m: [35mPOST /api/login 200 - - 2370.720 ms[39m
+[35m[39m
+2023-06-08 10:32:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:32:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:33:09 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:33:09 - [35mhttp[39m: [35mPOST /api/login 500 - - 10.288 ms[39m
+[35m[39m
+2023-06-08 10:36:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:36:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:38:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:38:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:39:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:39:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:39:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:39:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:39:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:39:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:39:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:39:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:39:56 - [35mhttp[39m: [35mPOST /api/login 200 - - 1227.153 ms[39m
+[35m[39m
+2023-06-08 10:40:00 - [35mhttp[39m: [35mPOST /api/login 404 - - 153.094 ms[39m
+[35m[39m
+2023-06-08 10:40:22 - [35mhttp[39m: [35mPOST /api/login 200 - - 152.646 ms[39m
+[35m[39m
+2023-06-08 10:40:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:40:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:40:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:40:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:40:52 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:40:52 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:40:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:40:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:41:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:41:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:41:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:41:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:41:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:41:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:42:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:42:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:42:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:42:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:42:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:42:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:43:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:43:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:44:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:44:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:44:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:44:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:44:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:44:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:45:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:45:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:45:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:45:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:45:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:45:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:45:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:45:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:45:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:45:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:45:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:45:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:46:38 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:46:38 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:46:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:46:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:46:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:46:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:46:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:46:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:47:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:47:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:47:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:47:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:47:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:47:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:47:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:47:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:47:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:47:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:48:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:48:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:48:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:48:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:48:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:48:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:48:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:48:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:49:00 - [35mhttp[39m: [35mPOST /api/login 200 - - 315.330 ms[39m
+[35m[39m
+2023-06-08 10:49:03 - [35mhttp[39m: [35mPOST /api/login 404 - - 298.907 ms[39m
+[35m[39m
+2023-06-08 10:49:23 - [35mhttp[39m: [35mPOST /api/login 404 - - 302.978 ms[39m
+[35m[39m
+2023-06-08 10:49:26 - [35mhttp[39m: [35mPOST /api/login 404 - - 300.989 ms[39m
+[35m[39m
+2023-06-08 10:49:28 - [35mhttp[39m: [35mPOST /api/login 404 - - 302.077 ms[39m
+[35m[39m
+2023-06-08 10:50:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:50:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:50:01 - [35mhttp[39m: [35mPOST /api/login 200 - - 1676.669 ms[39m
+[35m[39m
+2023-06-08 10:50:06 - [35mhttp[39m: [35mPOST /api/login 404 - - 295.875 ms[39m
+[35m[39m
+2023-06-08 10:50:09 - [35mhttp[39m: [35mPOST /api/login 200 - - 298.425 ms[39m
+[35m[39m
+2023-06-08 10:50:45 - [35mhttp[39m: [35mPOST /api/user 201 - - 236.297 ms[39m
+[35m[39m
+2023-06-08 10:50:52 - [35mhttp[39m: [35mPOST /api/login 404 - - 294.066 ms[39m
+[35m[39m
+2023-06-08 10:51:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:51:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:51:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:51:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:51:30 - [35mhttp[39m: [35mPOST /api/login 404 - - 311.938 ms[39m
+[35m[39m
+2023-06-08 10:53:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:53:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:53:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:53:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:53:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:53:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:54:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:54:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:54:21 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:54:21 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:54:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:54:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:54:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:54:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:55:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:55:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:55:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:55:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:55:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:55:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:55:51 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:55:51 - [35mhttp[39m: [35mPOST /api/login 500 - - 334.555 ms[39m
+[35m[39m
+2023-06-08 10:55:53 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:55:53 - [35mhttp[39m: [35mPOST /api/login 500 - - 297.516 ms[39m
+[35m[39m
+2023-06-08 10:57:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:57:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:57:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:57:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:57:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:57:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:58:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:58:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:59:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:59:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:59:07 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:59:07 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:59:26 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:59:26 - [35mhttp[39m: [35mPOST /api/login 500 - - 418.965 ms[39m
+[35m[39m
+2023-06-08 10:59:28 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:59:28 - [35mhttp[39m: [35mPOST /api/login 500 - - 375.197 ms[39m
+[35m[39m
+2023-06-08 10:59:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:59:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:59:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 10:59:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 10:59:55 - [35mhttp[39m: [35mPOST /api/login 404 - - 385.205 ms[39m
+[35m[39m
+2023-06-08 10:59:59 - [35mhttp[39m: [35mPOST /api/login 404 - - 363.646 ms[39m
+[35m[39m
+2023-06-08 11:00:04 - [35mhttp[39m: [35mPOST /api/login 404 - - 371.581 ms[39m
+[35m[39m
+2023-06-08 11:00:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:00:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:00:13 - [35mhttp[39m: [35mPOST /api/login 404 - - 371.385 ms[39m
+[35m[39m
+2023-06-08 11:01:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:01:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:01:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:01:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:01:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:01:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:01:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:01:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:01:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:01:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:01:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:01:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:02:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:02:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:02:16 - [35mhttp[39m: [35mGET / 404 - - 2.938 ms[39m
+[35m[39m
+2023-06-08 11:02:28 - [35mhttp[39m: [35mGET /api/login 404 - - 1.100 ms[39m
+[35m[39m
+2023-06-08 11:02:40 - [35mhttp[39m: [35mPOST /api/login 404 - - 374.706 ms[39m
+[35m[39m
+2023-06-08 11:03:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:03:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:03:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:03:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:03:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:03:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:03:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:03:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:03:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:03:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:04:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:04:48 - [35mhttp[39m: [35mPOST /api/login 404 - - 1965.235 ms[39m
+[35m[39m
+2023-06-08 11:04:55 - [35mhttp[39m: [35mPOST /api/login 404 - - 372.379 ms[39m
+[35m[39m
+2023-06-08 11:05:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:05:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:05:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:05:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:05:20 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:20 - [35mhttp[39m: [35mPOST /api/login 500 - - 10.674 ms[39m
+[35m[39m
+2023-06-08 11:05:21 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:21 - [35mhttp[39m: [35mPOST /api/login 500 - - 2.783 ms[39m
+[35m[39m
+2023-06-08 11:05:22 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:22 - [35mhttp[39m: [35mPOST /api/login 500 - - 2.370 ms[39m
+[35m[39m
+2023-06-08 11:05:22 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:22 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.706 ms[39m
+[35m[39m
+2023-06-08 11:05:23 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:23 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.161 ms[39m
+[35m[39m
+2023-06-08 11:05:24 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:24 - [35mhttp[39m: [35mPOST /api/login 500 - - 1.483 ms[39m
+[35m[39m
+2023-06-08 11:05:38 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:05:38 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:05:38 - [31merror[39m: [31mErro no login: userPassword is not defined[39m
+2023-06-08 11:05:39 - [35mhttp[39m: [35mPOST /api/login 500 - - 2423.836 ms[39m
+[35m[39m
+2023-06-08 11:05:40 - [31merror[39m: [31mErro no login: userPassword is not defined[39m
+2023-06-08 11:05:40 - [35mhttp[39m: [35mPOST /api/login 500 - - 150.835 ms[39m
+[35m[39m
+2023-06-08 11:05:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:05:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:05:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:05:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:06:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:06:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:06:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:06:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:06:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:06:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:06:48 - [35mhttp[39m: [35mPOST /api/login 200 - - 173.633 ms[39m
+[35m[39m
+2023-06-08 11:06:53 - [35mhttp[39m: [35mPOST /api/login 404 - - 148.135 ms[39m
+[35m[39m
+2023-06-08 11:06:57 - [35mhttp[39m: [35mPOST /api/login 200 - - 146.176 ms[39m
+[35m[39m
+2023-06-08 11:07:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:07:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:09:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:09:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:09:05 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:09:05 - [35mhttp[39m: [35mPOST /api/login 500 - - 9.690 ms[39m
+[35m[39m
+2023-06-08 11:09:47 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:09:47 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:09:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:09:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:09:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:09:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:10:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:10:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:11:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:11:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:11:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:11:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:11:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:11:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:13:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:13:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:13:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:13:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:13:22 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:13:22 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:13:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:13:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:13:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:13:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:13:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:13:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:14:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:14:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:14:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:14:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:14:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:14:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:14:38 - [35mhttp[39m: [35mPOST /api/login 200 - - 1189.749 ms[39m
+[35m[39m
+2023-06-08 11:14:43 - [35mhttp[39m: [35mPOST /api/login 404 - - 147.626 ms[39m
+[35m[39m
+2023-06-08 11:17:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:17:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:17:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:17:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:17:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:17:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:18:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:18:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:18:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:18:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:18:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:18:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:19:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:19:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:19:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:19:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:19:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:19:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:19:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:19:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:20:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:20:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:20:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:20:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:21:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:21:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:21:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:21:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:21:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:21:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:21:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:21:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:22:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:22:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:23:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:23:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:23:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:23:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:23:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:23:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:23:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:23:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:24:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:24:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:24:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:24:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:24:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:24:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:24:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:24:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:24:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:24:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:24:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:24:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:25:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:25:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:25:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:25:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:25:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:25:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:26:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:26:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:28:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:28:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:30:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:30:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:30:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:30:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:31:14 - [35mhttp[39m: [35mPOST /api/login 404 - - 163.315 ms[39m
+[35m[39m
+2023-06-08 11:31:19 - [35mhttp[39m: [35mPOST /api/login 200 - - 223.174 ms[39m
+[35m[39m
+2023-06-08 11:31:28 - [35mhttp[39m: [35mPOST /api/login 404 - - 148.154 ms[39m
+[35m[39m
+2023-06-08 11:31:33 - [35mhttp[39m: [35mPOST /api/login 200 - - 222.345 ms[39m
+[35m[39m
+2023-06-08 11:31:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:31:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:32:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:32:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:32:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:32:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:32:07 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:32:07 - [35mhttp[39m: [35mPOST /api/login 500 - - 354.648 ms[39m
+[35m[39m
+2023-06-08 11:32:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:32:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:32:52 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:32:52 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:32:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:32:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:33:14 - [35mhttp[39m: [35mPOST /api/login 401 - - 408.877 ms[39m
+[35m[39m
+2023-06-08 11:33:18 - [35mhttp[39m: [35mPOST /api/login 404 - - 295.950 ms[39m
+[35m[39m
+2023-06-08 11:33:24 - [35mhttp[39m: [35mPOST /api/login 200 - - 383.570 ms[39m
+[35m[39m
+2023-06-08 11:33:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:33:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:33:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:33:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:34:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:34:57 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:34:57 - [35mhttp[39m: [35mPOST /api/login 500 - - 1559.808 ms[39m
+[35m[39m
+2023-06-08 11:35:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:35:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:35:14 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:35:14 - [35mhttp[39m: [35mPOST /api/login 500 - - 352.378 ms[39m
+[35m[39m
+2023-06-08 11:35:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:35:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:35:29 - [31merror[39m: [31mErro no login: Cannot read properties of null (reading 'password')[39m
+2023-06-08 11:35:29 - [35mhttp[39m: [35mPOST /api/login 500 - - 1250.031 ms[39m
+[35m[39m
+2023-06-08 11:35:38 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:35:38 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:35:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:35:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:35:44 - [35mhttp[39m: [35mPOST /api/login 200 - - 1600.348 ms[39m
+[35m[39m
+2023-06-08 11:36:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:36:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:36:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:36:21 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:21 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:36:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:36:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:36:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:36:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:38:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:38:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:38:53 - [35mhttp[39m: [35mPOST /api/login 404 - - 160.644 ms[39m
+[35m[39m
+2023-06-08 11:38:54 - [35mhttp[39m: [35mPOST /api/login 404 - - 147.968 ms[39m
+[35m[39m
+2023-06-08 11:39:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:39:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:39:08 - [35mhttp[39m: [35mPOST /api/login 200 - - 269.618 ms[39m
+[35m[39m
+2023-06-08 11:39:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:39:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:39:21 - [35mhttp[39m: [35mPOST /api/login 404 - - 1549.102 ms[39m
+[35m[39m
+2023-06-08 11:39:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:39:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:39:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:39:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:40:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:40:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:41:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:41:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:41:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:41:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:42:46 - [35mhttp[39m: [35mPOST /api/login 404 - - 322.800 ms[39m
+[35m[39m
+2023-06-08 11:42:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:42:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:43:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:43:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:43:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:43:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:43:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:43:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:43:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:43:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:43:38 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:43:38 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-06-08 11:44:50 - [35mhttp[39m: [35mPOST /api/login 401 - - 230.656 ms[39m
+[35m[39m
+2023-06-08 11:44:54 - [35mhttp[39m: [35mPOST /api/login 200 - - 223.072 ms[39m
+[35m[39m
+2023-06-08 11:45:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-06-08 11:45:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m

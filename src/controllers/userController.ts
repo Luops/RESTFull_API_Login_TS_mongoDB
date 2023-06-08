@@ -33,19 +33,31 @@ export async function createUser(req: Request, res: Response) {
 
 export async function login(req: Request, res: Response) {
   try {
-    // Coletar somente email
-    const userEmail: String = req.body.email; // Receber todos dados da requisição http (tudo em relação aos dados do usuário)
+    // Coletar dados
+    const data = req.body; // Receber o email da requisição http do POSTMAN(tudo em relação aos dados do usuário)
 
     // Verificar se o email existe no banco de dados de acordo com a requisição, levando a requisição para o email do model
-    const checkEmail = await UserModel.findOne({ email: userEmail });
+    const checkUser = await UserModel.findOne({ email: data.email }); // Tenta encontrar oq foi digitado nos emails do model
 
-    if (!checkEmail) {
-      return res.status(404).json({ message: "Email não encontrado!" });
+    if (checkUser) {
+      if (checkUser.password) {
+        // Comparar as senhas com o hash
+        const isPasswordValid = bcrypt.compareSync(
+          data.password, // Senha digitada no POSTMAN (requisição)
+          checkUser.password // Senha do model / Banco de dados
+        );
+        if (isPasswordValid) {
+          // A senha é válida
+          return res.status(200).json({ message: "Login bem-sucedido!" });
+        } else {
+          return res.status(401).json({ message: "Senha inválida!" });
+        }
+      } else {
+        return res.status(404).json({ message: "Senha inválida!" });
+      }
+    } else {
+      return res.status(404).json({ message: "Email inválido!" });
     }
-
-    // O email existe no banco de dados, continue com a lógica de login
-
-    return res.status(200).json({ message: "Email encontrado." });
   } catch (error) {
     Logger.error("Erro no login:", error);
     return res.status(500).json({ message: "Erro no servidor." });

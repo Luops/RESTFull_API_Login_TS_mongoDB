@@ -1,2 +1,35 @@
 2023-06-05 20:36:24 - [31merror[39m: [31mNão foi possível se conectar com o DB![39m
 2023-06-05 20:36:24 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2023-06-08 10:29:37 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:29:38 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:30:15 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:30:16 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:30:16 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:26 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:36 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:38 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:31:53 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:54 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:55 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:31:56 - [31merror[39m: [31mErro no login: checkEmail is not defined[39m
+2023-06-08 10:32:10 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:32:11 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:32:11 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:33:09 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 10:55:51 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:55:53 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:59:26 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 10:59:28 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:05:20 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:21 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:22 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:22 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:23 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:24 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:05:38 - [31merror[39m: [31mErro no login: userPassword is not defined[39m
+2023-06-08 11:05:40 - [31merror[39m: [31mErro no login: userPassword is not defined[39m
+2023-06-08 11:09:05 - [31merror[39m: [31mErro no login: data and salt arguments required[39m
+2023-06-08 11:32:07 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:34:57 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:35:14 - [31merror[39m: [31mErro no login: data and hash arguments required[39m
+2023-06-08 11:35:29 - [31merror[39m: [31mErro no login: Cannot read properties of null (reading 'password')[39m
